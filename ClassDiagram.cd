@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Seminar::CommandLineArgument" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAQAAAAAAAAAAAAAAAgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\CommandLineArgument.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::Convert" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIAAAAAAgAAAgEAIAAAAAAACAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Convert.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::WinApiException" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBAAQAAAAAAAgAAAIAAAAAIAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IApplication" Collapsed="true">
+    <Position X="3.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAEAAAAARAAQAAAAEAAAQBAEAAAAAAAIgAAEAAIA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Interfaces\IApplication.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::ICommand" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAAAAAAQQAAAAABAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Interfaces\ICommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::AddRegValue" Collapsed="true">
+    <Position X="8.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAAAAAAAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\AddRegValue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::Application" Collapsed="true">
+    <Position X="3.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAABAAAAQAAABEAAAABAACAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\Application.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::AutoEvent" Collapsed="true">
+    <Position X="10.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAABAAAAAAAAAAACAAAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\AutoEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::ChangeRegValue" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAgAAAAAQA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\ChangeRegValue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::GuardRegKey" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEgAIAAAAQAAAIoAEAAAEAIAEIAAgggAAAAIAQ=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\GuardRegKey.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::RegKeyBuilderUnit" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMAAAQAEAAAAIAEAAAAAAgEIAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\RegKeyBuilderUnit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::RegKeyUnit">
+    <Position X="12" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAAEAAAAAAAABAAAAAAACAAAEEAAAAgAAAQAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\RegKeyUnit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::RegKeyWatcher" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAkAAAQEAEAAAAAAAEIAAKQgQACAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\RegKeyWatcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::RegValueUnit">
+    <Position X="15.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAgAAAAABAAAAAAAAgAAEFAAAAoAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\RegValueUnit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::RemoveRegValue" Collapsed="true">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAIAAAAAAAAAAAAAAAEAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Classes\RemoveRegValue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IBuilderUnit" Collapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAEgAAAAAAgAAAAAgA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Interfaces\IBuilderUnit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IEvent" Collapsed="true">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAABAAAAAAAAAAAAAQAAEQAQAAgBAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Interfaces\IEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::Subject" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIEAIAAAAAAAIAAAABAAAAgAAAAIAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Interfaces\IObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IObserver" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Interfaces\IObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IRestoreRegValue" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAEAAAAAEAEgQAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Interfaces\IRestoreRegValue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IUnit">
+    <Position X="13.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAAEAAAQAAAABAAAEAAAAAAAAEAAAAgAAAABAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Interfaces\IUnit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IWatcher" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIABgAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Task1\NotifyChangeKeyValue\Interfaces\IWatcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::Wrap::Common::Handle" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAQAAEYAQAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Wrap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::Wrap::Reg::Handle" Collapsed="true">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIQAAAAAAAEICQAggAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Wrap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::Wrap::Service::Handle" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAEIAQAAhAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Wrap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::HandleException" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::NotSupportedException" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::RegistryException" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IEventException" Collapsed="true">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::CommandLineArgumentException" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::DriverException" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::ResourceException" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::ConvertException" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::FileException" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IFileException" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::DeviceException" Collapsed="true">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::IoCompletionPortException" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::NamedPipeException" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seminar::WorkerScannerException" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Work\Desktop\Seminar regedit\Sources\Common\Classes\Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
